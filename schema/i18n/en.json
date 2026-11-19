@@ -1,0 +1,7 @@
+{
+  "plugin.arvancloud-dns.name": "ArvanCloud",
+  "plugin.arvancloud-dns.description": "ACME DNS-01 via ArvanCloud.",
+  "plugin.arvancloud-dns.access.apiKey.label": "ArvanCloud API key",
+  "plugin.arvancloud-dns.access.apiKey.tooltip": "For more information, see <a href=\"https://docs.arvancloud.ir/en/developer-tools/api/api-key\" target=\"_blank\">https://docs.arvancloud.ir/en/developer-tools/api/api-key</a>",
+  "plugin.arvancloud-dns.access.apiKey.placeholder": "Please enter ArvanCloud API key"
+}

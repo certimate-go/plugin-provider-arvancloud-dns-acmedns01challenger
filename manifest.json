@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "arvancloud",
+  "binary": "arvancloud-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via ArvanCloud.",
+  "display_name_key": "plugin.arvancloud-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "arvancloud-dns",
+  "provider_aliases": [
+    "arvancloud"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

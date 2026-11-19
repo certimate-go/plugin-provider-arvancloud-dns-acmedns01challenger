@@ -1,0 +1,7 @@
+{
+  "plugin.arvancloud-dns.name": "ArvanCloud",
+  "plugin.arvancloud-dns.description": "通过 ArvanCloud 完成 ACME DNS-01 验证。",
+  "plugin.arvancloud-dns.access.apiKey.label": "ArvanCloud API 密钥",
+  "plugin.arvancloud-dns.access.apiKey.tooltip": "这是什么？请参阅 <a href=\"https://docs.arvancloud.ir/en/developer-tools/api/api-key\" target=\"_blank\">https://docs.arvancloud.ir/en/developer-tools/api/api-key</a>",
+  "plugin.arvancloud-dns.access.apiKey.placeholder": "请输入 ArvanCloud API 密钥"
+}
